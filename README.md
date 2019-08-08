@@ -9,7 +9,9 @@ It provides the following functionalities as REST endpoints:
 ### Add Account:
 
 Type : POST
+
 URL : /add
+
 Sample Payload : 
 
 ```
@@ -31,7 +33,9 @@ Sample Response :
 ### Get Account Info:
 
 Type : GET
+
 URL : /get/{accountNumber}
+
 Sample Response : 
 
 ```
@@ -45,7 +49,9 @@ Sample Response :
 ### Perform Transaction:
 
 Type : POST
+
 URL : /transfer
+
 Sample Payload : 
 
 ```
